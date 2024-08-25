@@ -33,47 +33,55 @@ Process Image with OpenCv and PyVista
 **Languages**
 <br/>
 <p aplign="center">
-<img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
+<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/c.png">
+<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/cpp.png">
+<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/python.png">
 </p>
 
 **Libraries and Frameworks**
 <br/>
 <p aplign="center">
-
-
+<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arduino.png">
+<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/matplotlib.png">
+<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/numpy.png">
+<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/pyserial.png">
 </p>
 
 <br/>
 **Microcontroller** 
 <p aplign="center">
-
-
+<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/avr.png">
+<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/espressif.png">
+<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/raspberrypi.png">
 </p>
 
 <br/>
 **Image Processing** 
 <p aplign="center">
-
+<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/opencv.png">
+<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/pyvista.png">
 </p>
 
 <br/>
 **Machine Learning Integration** 
 <p aplign="center">
-
-
+<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/tensorflow.png">
 </p>
 
 <br/>
 **Project Management**  
 <p aplign="center">
-
+<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/git.png">
+<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/github.png">
 </p>
 
 <br/>
 **Tools**
 <p aplign="center">
-
-
+<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/jupyter.png">
+<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/conda.png">
+<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/pycharm.png">
+<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/vscode.png">
 </p>
 
 ## License
