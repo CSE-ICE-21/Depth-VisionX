@@ -48,6 +48,7 @@ Process Image with OpenCv and PyVista
 </p>
 
 <br/>
+
 **Microcontroller** 
 <p aplign="center">
 <img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/avr.png">
@@ -56,6 +57,7 @@ Process Image with OpenCv and PyVista
 </p>
 
 <br/>
+
 **Image Processing** 
 <p aplign="center">
 <img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/opencv.png">
@@ -63,12 +65,14 @@ Process Image with OpenCv and PyVista
 </p>
 
 <br/>
+
 **Machine Learning Integration** 
 <p aplign="center">
 <img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/tensorflow.png">
 </p>
 
 <br/>
+
 **Project Management**  
 <p aplign="center">
 <img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/git.png">
@@ -76,6 +80,7 @@ Process Image with OpenCv and PyVista
 </p>
 
 <br/>
+
 **Tools**
 <p aplign="center">
 <img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/jupyter.png">
