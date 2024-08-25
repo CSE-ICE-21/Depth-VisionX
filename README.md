@@ -1,28 +1,25 @@
-# Cam Stream Optimizer
+# Depth VisionX
 
-Capture and process images using a camera module (OV7670)
+Capture and process images using a stereo camera.
 
 - Will be tested on ESP32, AtMega328P or STM32 initially. Thereafter Raspberry Pi Pico or other microcontrollers with high processing power will be tested with optimization
 - For initial testing OV7670 camera module is used and D[8], VSync, HSync and I2C are used to communicate with the module.
 - Python and C++ are used mainly for interfacing and microcontroller programming.
-- Capture an image and store it on EEPROM (Internal or Externally added EEPROM ICs). Then rotate the camera 20 degrees and capture the next image.
-- Once all images are captured by rotating the camera module, retrieve them from the buffers.
-- Combine the images to create a panoramic view or a larger composite image. Ensure proper alignment and stitching of images to avoid overlaps or gaps.
-- Apply image processing techniques to enhance clarity. This may include noise reduction, contrast adjustment, and sharpening. (Target to process the image with different types for extracting different data)
-- Ensure the display resolution matches the processed image resolution for optimal clarity.
+- Capture an image and transfer it using Serial communication to the computer.
+- Once all images are transferred, process the images using OpenCV (for creating depth map) and Machine Learning Model (for object detection and extraction data in image).
+- Apply image processing techniques to enhance clarity. This may include noise reduction, contrast adjustment, and sharpening.
 
-## Deployment Timeline
+## Development Timeline
 
-| Task                                                                                  | week 01                   | week 02                   | week 03                   | week 04                   | week 05                   | week 06                   | week 07                   | week 08                   | week 09                   | week 10                   | week 11                   | week 12 |
-| ------------------------------------------------------------------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------- |
-| Researching about PySerial, Image Combine and Camera Module                           | :triangular_flag_on_post: |                           |                           |                           |                           | :triangular_flag_on_post: |                           |                           | :triangular_flag_on_post: | :triangular_flag_on_post: |                           |         |
-| Setup Camera Module to capture images using D[8], VS, PCLK and HS                     | :triangular_flag_on_post: | :triangular_flag_on_post: |                           |                           |                           |                           |                           |                           |                           |                           |                           |
-| Develop a Python program to read data from the serial port and interpret it on screen |                           |                           | :triangular_flag_on_post: |                           |                           |                           |                           |                           |                           |                           |                           |
-| Capture image using camera module and display it on monitor                           |                           |                           |                           | :triangular_flag_on_post: |                           |                           |                           |                           |                           |                           |                           |
-| Capture more images and combine using python program                                  |                           |                           |                           |                           | :triangular_flag_on_post: |                           |                           |                           |                           |                           |                           |
-| Design and implement rotation of camera module                                        |                           |                           |                           |                           |                           | :triangular_flag_on_post: | :triangular_flag_on_post: |                           |                           |                           |                           |
-| Calibrations and testing                                                              |                           |                           |                           |                           |                           |                           |                           | :triangular_flag_on_post: | :triangular_flag_on_post: | :triangular_flag_on_post: |                           |
-| Documentation                                                                         |                           |                           |                           |                           |                           |                           |                           |                           |                           |                           | :triangular_flag_on_post: |
+| Task                                                                                  | week 01                   | week 02                   | week 03                   | week 04                   | week 05                   | week 06                   | week 07                   | week 08                   | 
+| ------------------------------------------------------------------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
+| Researching about PySerial, OpenCV and Camera Module |<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">| | | | | | | |
+| Setup Camera Module to capture images & communication with computer| |<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">|<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">| | | | |
+| Process image with OpenCv | | |<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">|<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">| | | |
+| Creating Depth Maps | | | |<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">| | | |
+| Extraction of Data | | | |<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">|<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">| | |
+| Calibrations and testing | | | | | |<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">| |
+| Documentation | | | | | | |<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">|
 
 ## Required materials
 
@@ -30,11 +27,54 @@ Capture and process images using a camera module (OV7670)
 Image transfer with Serial Communication
 EEPROM programming
 Python Serial Library
-Display an image with python cv2## Tech Stack
+Process Image with OpenCv and PyVista
 
-**Microcontroller** : C++ with register programming
+## Tech Stack
+**Languages**
+<br/>
+<p aplign="center">
+<img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
+</p>
 
-**Computer** : Python, PySerial, CV2
+**Libraries and Frameworks**
+<br/>
+<p aplign="center">
+
+
+</p>
+
+<br/>
+**Microcontroller** 
+<p aplign="center">
+
+
+</p>
+
+<br/>
+**Image Processing** 
+<p aplign="center">
+
+</p>
+
+<br/>
+**Machine Learning Integration** 
+<p aplign="center">
+
+
+</p>
+
+<br/>
+**Project Management**  
+<p aplign="center">
+
+</p>
+
+<br/>
+**Tools**
+<p aplign="center">
+
+
+</p>
 
 ## License
 
