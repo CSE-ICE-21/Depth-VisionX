@@ -14,12 +14,12 @@ Capture and process images using a stereo camera.
 | Task                                                                                  | week 01                   | week 02                   | week 03                   | week 04                   | week 05                   | week 06                   | week 07                   | week 08                   | 
 | ------------------------------------------------------------------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
 | Researching about PySerial, OpenCV and Camera Module |<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">| | | | | | | |
-| Setup Camera Module to capture images & communication with computer| |<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">|<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">| | | | |
-| Process image with OpenCv | | |<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">|<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">| | | |
-| Creating Depth Maps | | | |<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">| | | |
-| Extraction of Data | | | |<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">|<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">| | |
-| Calibrations and testing | | | | | |<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">| |
-| Documentation | | | | | | |<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">|
+| Setup Camera Module to capture images & communication with computer| |<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">|<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">| | | | | |
+| Process image with OpenCv | | |<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">|<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">| | | | |
+| Creating Depth Maps | | | |<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">|<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png"> | | | |
+| Extraction of Data | | | |<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">|<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">|<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">| | |
+| Calibrations and testing | | | | | | |<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">| |
+| Documentation | | | | | | | |<img height="50" src="https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/arrow.png">|
 
 ## Required materials
 
