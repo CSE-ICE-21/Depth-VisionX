@@ -31,14 +31,29 @@ The OV7670 camera module outputs image data in a parallel format using 8 data li
 
 ## 4. D[0:7] (Pixel Data)
 
-- Output pixel data in an 8-bit parallel format. These data lines are labeled from D0 to D7 and represent one byte (8 bits) of pixel data at a time. OV7670 supports three types of pixel data.
-- RGB565
-  ![RGB565 Frame](https://github.com/TharushaDinujaya/Depth-VisionX/tree/main/assets/RGB565.png)
-- RGB555
-  ![RGB555 Frame](https://github.com/TharushaDinujaya/Depth-VisionX/tree/main/assets/RGB555.png)
-- RGB444
-  ![RGB444 Frame](https://github.com/TharushaDinujaya/Depth-VisionX/tree/main/assets/RGB444.png)
+Output pixel data in an 8-bit parallel format. These data lines are labeled from D0 to D7 and represent one byte (8 bits) of pixel data at a time. OV7670 supports three types of pixel data.
+
+### RGB565
+<hr/>
+
+![](https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/RGB565.png)
+
+<br/>
+
+### RGB555
+<hr/>
+
+![](https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/RGB555.png)
+
+<br/>
+
+### RGB444
+<hr/>
+
+![](https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/RGB444.png)
+
+<br/>
 
 ## Timing Diagram
 
-![Timing Diagram](https://github.com/TharushaDinujaya/Depth-VisionX/tree/main/assets/VGAFrame.png)
+![Timing Diagram](https://github.com/TharushaDinujaya/Depth-VisionX/blob/main/assets/VGAFrame.png)
