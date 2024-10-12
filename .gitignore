@@ -9,6 +9,23 @@ lerna-debug.log*
 
 *.drawio
 
+*.po
+.venv/
+
+YOLO/images/
+YOLO/models/
+Desparity map/maps/
+Desparity map/images/
+Desparity map/models/
+Calibration/chessboard/
+Calibration/Images/
+Calibration/L/
+Calibration/R/
+Calibration/sample/
+Calibration/StereoLeft/
+Calibration/StereoRight/
+Calibration/USB/
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
@@ -130,3 +147,4 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
