@@ -8,6 +8,8 @@ lerna-debug.log*
 .pnpm-debug.log*
 
 *.drawio
+*.png
+*.jpg
 
 *.po
 .venv/
